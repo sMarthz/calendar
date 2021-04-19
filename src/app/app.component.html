@@ -1,0 +1,38 @@
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+    <img src="assets/img/calendario.png" style="float:left;">
+    <h2 style="float:left;">CALENDAR</h2>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/calendario">Calendario</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/modulos">Módulos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/profesores">Profesores</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+      <router-outlet></router-outlet>
+    </div>
+    <div class="col-4">
+      <app-chat></app-chat>
+    </div>
+  </div>
+</div>
+
