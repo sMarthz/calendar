@@ -28,23 +28,28 @@
   "modulos": [
    	{
 	 "id": 1,
-	 "nombre": "DWEC"
+	 "nombre": "DWEC",
+   "fullnombre": "Desarrollo Web en Entorno Cliente"
 	},
 	{
 	  "id": 2,
-	  "nombre": "DWES"
+	  "nombre": "DWES",
+    "fullnombre": "Desarrollo Web en Entorno Servidor"
 	},
 	{
 	  "id": 3,
-	  "nombre": "DAW"
+	  "nombre": "DAW",
+    "fullnombre": "Despliegue de Aplicaciones Web"
 	},
 	{
 	  "id": 4,
-	  "nombre": "DIW"
+	  "nombre": "DIW",
+    "fullnombre": "Diseño de Interfaces Web"
 	},
 	{
 	  "id": 5,
-	  "nombre": "Marcas"
+	  "nombre": "LM",
+    "fullnombre": "Lenguaje de Marcas"
 	}
   ],
   "examenes": [
