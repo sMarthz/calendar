@@ -2,25 +2,33 @@
   "profesores": [
 	{
 	  "id": 1,
-	  "nombre": "Luis Miguel Fernández"
+	  "nombre": "Luis Miguel Fernández",
+    "departamento": "Informática",
+    "email": "luismiguel-fer@gmail.com"
 	},
 	{
 	  "id": 2,
-	  "nombre": "Fernando Ruiz"
+	  "nombre": "Fernando Ruiz",
+    "departamento": "Informática",
+    "email": "fernando@gmail.com"
 	},
 	{
 	  "id": 3,
-	  "nombre": "Susana Valverde"
+	  "nombre": "Susana Valverde",
+    "departamento": "Informática",
+    "email": "susana.valverde2@gmail.com"
 	},
 	{
 	  "id": 4,
-	  "nombre": "Beatriz de Miguel"
+	  "nombre": "Beatriz de Miguel",
+    "departamento": "Informática",
+    "email": "beatriz.miguel@murciaeduca.es"
 	}
   ],
   "modulos": [
    	{
 	 "id": 1,
-	    "nombre": "DWEC"
+	 "nombre": "DWEC"
 	},
 	{
 	  "id": 2,
