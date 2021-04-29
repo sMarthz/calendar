@@ -71,5 +71,17 @@
 		  "id_mod": 3,
 		  "fechahora": "8:15 21/04/2021"
 	  }
+  ],
+  "chat": [
+	  {
+	   "id": 1,
+	   "autor": "Luismi",
+	   "texto": "Hola, primer mensaje del chat"
+	  },
+	   {
+	   "id": 2,
+	   "autor": "Adrián",
+	   "texto": "Hola, yo también participo"
+	  }
   ]
 }
