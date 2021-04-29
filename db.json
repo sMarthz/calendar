@@ -76,12 +76,16 @@
 	  {
 	   "id": 1,
 	   "autor": "Luismi",
-	   "texto": "Hola, primer mensaje del chat"
+	   "texto": "Hola, recordad que el examen será el 100% de la nota."
 	  },
 	   {
 	   "id": 2,
 	   "autor": "Adrián",
 	   "texto": "Hola, yo también participo"
-	  }
+	  },
+     {
+	   "id": 3,
+	   "autor": "Javier",
+	   "texto": "Se puede usar internet?"
   ]
 }
