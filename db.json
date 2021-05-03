@@ -88,5 +88,39 @@
 	   "autor": "Javier",
 	   "texto": "Se puede usar internet?"
      }
+  ],
+  "articulos": [
+      {
+      "id": 1,
+      "nombre": "Pista de entrenamiento",
+      "precio": 20,
+      "incremento": 10,
+      "beneficio": 0.1,
+      "url": "assets/img/"
+    },
+        {
+      "id": 2,
+      "nombre": "Gerente",
+      "precio": 100,
+      "incremento": 20,
+      "beneficio": 0.3,
+      "url": "assets/img/gerente.png"
+    },
+        {
+      "id": 3,
+      "nombre": "Entrenador",
+      "precio": 300,
+      "incremento": 50,
+      "beneficio": 0.5,
+      "url": "assets/img/"
+    },
+        {
+      "id": 4,
+      "nombre": "Colocador",
+      "precio": 550,
+      "incremento": 60,
+      "beneficio": 0.8,
+      "url": "assets/img/colocador.png"
+    }
   ]
 }
