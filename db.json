@@ -96,7 +96,7 @@
       "precio": 20,
       "incremento": 10,
       "beneficio": 0.1,
-      "url": "assets/img/"
+      "url": "assets/img/pista.png"
     },
         {
       "id": 2,
@@ -112,7 +112,7 @@
       "precio": 300,
       "incremento": 50,
       "beneficio": 0.5,
-      "url": "assets/img/"
+      "url": "assets/img/entrenador.png"
     },
         {
       "id": 4,
