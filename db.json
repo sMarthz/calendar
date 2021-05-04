@@ -93,8 +93,8 @@
       {
       "id": 1,
       "nombre": "Pista de entrenamiento",
-      "precio": 20,
-      "incremento": 10,
+      "precio": 15,
+      "incremento": 3,
       "beneficio": 0.1,
       "url": "assets/img/pista.png"
     },
@@ -102,24 +102,24 @@
       "id": 2,
       "nombre": "Gerente",
       "precio": 100,
-      "incremento": 20,
-      "beneficio": 0.3,
+      "incremento": 15,
+      "beneficio": 1,
       "url": "assets/img/gerente.png"
     },
         {
       "id": 3,
       "nombre": "Entrenador",
-      "precio": 300,
-      "incremento": 50,
-      "beneficio": 0.5,
+      "precio": 400,
+      "incremento": 20,
+      "beneficio": 4,
       "url": "assets/img/entrenador.png"
     },
         {
       "id": 4,
       "nombre": "Colocador",
-      "precio": 550,
+      "precio": 1100,
       "incremento": 60,
-      "beneficio": 0.8,
+      "beneficio": 9,
       "url": "assets/img/colocador.png"
     }
   ]
