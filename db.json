@@ -96,7 +96,8 @@
       "precio": 15,
       "incremento": 3,
       "beneficio": 0.1,
-      "url": "assets/img/pista.png"
+      "url": "assets/img/pista.png",
+      "comprable": false
     },
         {
       "id": 2,
@@ -104,7 +105,8 @@
       "precio": 100,
       "incremento": 15,
       "beneficio": 1,
-      "url": "assets/img/gerente.png"
+      "url": "assets/img/gerente.png",
+      "comprable": false
     },
         {
       "id": 3,
@@ -112,7 +114,8 @@
       "precio": 400,
       "incremento": 20,
       "beneficio": 4,
-      "url": "assets/img/entrenador.png"
+      "url": "assets/img/entrenador.png",
+      "comprable": false
     },
         {
       "id": 4,
@@ -120,7 +123,8 @@
       "precio": 1100,
       "incremento": 60,
       "beneficio": 9,
-      "url": "assets/img/colocador.png"
+      "url": "assets/img/colocador.png",
+      "comprable": false
     }
   ]
 }
