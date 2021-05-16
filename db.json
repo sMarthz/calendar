@@ -126,5 +126,56 @@
       "url": "assets/img/colocador.png",
       "comprable": false
     }
+  ],
+  "paparajote": [
+      {
+      "id": 1,
+      "nombre": "Cursor",
+      "precio": 15,
+      "beneficio": 0.1,
+      "url": "assets/img/cursor.png"
+    },
+        {
+      "id": 2,
+      "nombre": "Grandma",
+      "precio": 20,
+      "beneficio": 1,
+      "url": "assets/img/grandma.png"
+    },
+        {
+      "id": 3,
+      "nombre": "Farm",
+      "precio": 40,
+      "beneficio": 4,
+      "url": "assets/img/farm.png"
+    },
+        {
+      "id": 4,
+      "nombre": "Mine",
+      "precio": 1100,
+      "beneficio": 30,
+      "url": "assets/img/mine.png"
+    },
+            {
+      "id": 5,
+      "nombre": "Factory",
+      "precio": 130000,
+      "beneficio": 70,
+      "url": "assets/img/factory.png"
+    },
+            {
+      "id": 6,
+      "nombre": "Bank",
+      "precio": 1400000,
+      "beneficio": 160,
+      "url": "assets/img/bank.png"
+    },
+            {
+      "id": 7,
+      "nombre": "Temple",
+      "precio": 20000000,
+      "beneficio": 500,
+      "url": "assets/img/temple.png"
+    }
   ]
 }
