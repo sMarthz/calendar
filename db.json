@@ -162,20 +162,6 @@
       "precio": 130000,
       "beneficio": 70,
       "url": "assets/img/factory.png"
-    },
-            {
-      "id": 6,
-      "nombre": "Bank",
-      "precio": 1400000,
-      "beneficio": 160,
-      "url": "assets/img/bank.png"
-    },
-            {
-      "id": 7,
-      "nombre": "Temple",
-      "precio": 20000000,
-      "beneficio": 500,
-      "url": "assets/img/temple.png"
     }
   ]
 }
